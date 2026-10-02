@@ -1,0 +1,1 @@
+print("numero:\n22608184", "\nidade:\n18")
